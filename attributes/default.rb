@@ -17,7 +17,7 @@
 # limitations under the License.
 #
 
-default['apache']['version'] = '2.2'
+default['apache']['version'] = '2.4'
 default['apache']['root_group'] = 'root'
 
 # Where the various parts of apache are
